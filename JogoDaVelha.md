@@ -3,7 +3,7 @@
 ### Gabriel Majewski (Jogador 1)
 ### Hugo Lima (juiz) 
 ### Lucas Pedro (Jogador 2)
-
+### EMPATE
 | -  |  A     | B     | C     |
 | -- | :---:  | :---: | :---: |
 | 1  | X      | X     | O     |
