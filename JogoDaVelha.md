@@ -1,7 +1,7 @@
 # Jogo da velha
 ## Integrantes
-### NOME COMPLETO
-### NOME COMPLETO
+### Gabriel Majewski (Jogador 1)
+### Hugo Lima (juiz) ### Lucas Pedro (Jogador 2)
 
 | -  |  A     | B     | C     |
 | -- | :---:  | :---: | :---: |
